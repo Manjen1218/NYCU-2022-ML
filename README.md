@@ -1,5 +1,6 @@
 # NYCU-2022-ML
-## Introduction of my code
+This is my final project in the course, Introduction to Machine Learning in NYCU.
+## Introduction
 I do my Logistic Regression model by below steps.
 1. Feature extraction to prevent overfitting
 2. Impute data by using  Huber Regression and KNNImputer
