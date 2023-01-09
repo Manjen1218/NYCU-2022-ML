@@ -1,6 +1,12 @@
 # NYCU-2022-ML
 ## Introduction of my code
- I first do feature extraction to prevent overfitting, then use Huber Regression and KNNImputer to impute data, and scaling the feature, finally use Logistic Regression model for training and prediction.
+I do my model by below steps.
+1. Feature extraction to prevent overfitting
+2. Impute data by using  Huber Regression and KNNImputer
+3. Scaling feature with StandardScaler()
+4. Pre-trained Logistic Regression model
+5. Predection and submission
+ 
 ## Reproducing Submission
 Follow these steps to reproduce my submission without retraining.
 1. [Download Data](https://github.com/Manjen1218/NYCU-2022-ML/tree/main/input%20data)
