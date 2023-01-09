@@ -1,6 +1,6 @@
 # NYCU-2022-ML
 ## Introduction of my code
-I do my model by below steps.
+I do my Logistic Regression model by below steps.
 1. Feature extraction to prevent overfitting
 2. Impute data by using  Huber Regression and KNNImputer
 3. Scaling feature with StandardScaler()
